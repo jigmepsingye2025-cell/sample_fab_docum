@@ -25,14 +25,13 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Jigme Palden Singye
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"I will try my best."_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I am jigme palden singye.I came form paro and I have intrest on robots as i am still corious about how they are able to move ,how do they can do thing like human can't do.
 
 </div>
 
@@ -42,10 +41,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🎓 Education
 
-| Year | Degree / Grade | School |
+| Year |  Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2026 | 8 | The Royal Academy |
+| 2023 – 2024 | Utpal Junior | The Royal Academy |
 
 ## 🛠️ Skills
 
@@ -64,9 +63,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 !!! tip "Customize Your Skills"
 
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
-
+   <span class="skill-badge">CAD Design</span>
+   
 <hr class="section-divider">
 
 ## 🌟 Interests
