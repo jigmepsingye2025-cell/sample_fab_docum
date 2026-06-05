@@ -44,7 +44,7 @@ I am jigme palden singye.I came form paro and I have intrest on robots as i am s
 | Year |  Grade | School |
 |------|-----------------|-------------|
 | 2026 | 8 | The Royal Academy |
-| 2023 – 2024 | Utpal Junior | The Royal Academy |
+| 2023 – 2024 | 6 | utpal junior |
 
 ## 🛠️ Skills
 
